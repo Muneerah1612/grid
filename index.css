@@ -31,7 +31,7 @@
 } */ 
 .helium {
     grid-column-start: 19;
-    background-color: blueviolet;
+    
     
 }
 .boron {
@@ -61,19 +61,19 @@
 p {
     
     text-align: center;
-    background-color: tomato;
+    
 }
 .Ne {
     background-color: violet;
 }
 .green {
-    background-color: teal;
+    background-color: rgb(40,87,61);
 }
 .purp {
     background-color: green;
 }
 .pink {
-    background-color:mediumvioletred
+    background-color:rgb(126,43,87);
 }
 .blue {
     background-color:royalblue;
